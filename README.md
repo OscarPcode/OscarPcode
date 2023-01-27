@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OscarPcode
 - 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently learning foundational coding skills: i.e HTML, CSS and Javascript, and am looking to expand into Python.
+- 🌱 I’m currently learning foundational coding skills: i.e HTML, CSS and Javascript, and am looking to expand my knowledge.
 - 💞️ I’m looking to collaborate on any beginner level projects so that I can build my portfolio. 
 - 📫 How to reach me: Linkedin: www.linkedin.com/in/oscarpotter 
                        Email: oscarpottercoding@gmail.com
